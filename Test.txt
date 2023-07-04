@@ -1,2 +1,3 @@
+Adding a new line to test the function on the text file
 This is new text file
 to check the tutorial of git hub
