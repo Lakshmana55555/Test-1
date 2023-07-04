@@ -1,0 +1,2 @@
+This is new text file
+to check the tutorial of git hub
